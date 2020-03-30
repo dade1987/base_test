@@ -2,7 +2,6 @@
 
 $def = [
     'pub_theme' => 'talenteco_events',
-    //'pub_theme' => 'test',
     //'adm_theme' => 'adminlte',
     'adm_theme' => 'sb-admin-2-bs4',
     'enable_ads' => '1',
@@ -18,36 +17,17 @@ $def = [
         'place' => 'Modules\Blog\Models\Place',
         'event' => 'Modules\Blog\Models\Event',
         'rating' => 'Modules\Blog\Models\Rating',
-        'my_rating' => 'Modules\Blog\Models\MyRating',
-        'profile' => 'Modules\Blog\Models\Profile',
-        //------------- Extend --------------------------------------
-        'translation' => 'Modules\Xot\Models\Translation',
-        'image' => 'Modules\Xot\Models\Image',
-        //-------------- LU -----------------------------------------
-        'area' => 'Modules\LU\Models\Area',
-        'area_admin_area' => 'Modules\LU\Models\AreaAdminArea',
-        'group' => 'Modules\LU\Models\Group',
-        'group_right' => 'Modules\LU\Models\GroupRight',
-        'group_user' => 'Modules\LU\Models\GroupUser',
-        'invitation' => 'Modules\LU\Models\invitation',
-        'password_reset' => 'Modules\LU\Models\PasswordReset',
-        'perm_user' => 'Modules\LU\Models\PermUser',
-        'right' => 'Modules\LU\Models\Right',
-        'right_implied' => 'Modules\LU\Models\RightImplied',
-        'social_provider' => 'Modules\LU\Models\SocialProvider',
-        //'translation'		=>		'Modules\LU\Models\Translation',     !!! remember !!!
-        'user' => 'Modules\LU\Models\User',
-        'user_right' => 'Modules\LU\Models\UserRight',
         //------------- FOOD ----------------------------------------
-        //'restaurant' 		=> 		'Modules\Food\Models\Restaurant',
-        //'cuisine_cat' 		=> 		'Modules\Food\Models\CuisineCat',
-        //'cuisine' 			=> 		'Modules\Food\Models\Cuisine',
-        //'recipe' 			=> 		'Modules\Food\Models\Recipe',
         /*
+        'restaurant' 		=> 		'Modules\Food\Models\Restaurant',
         'restaurant_owner' 	=> 		'Modules\Food\Models\RestaurantOwner',
+        'recipe' 			=> 		'Modules\Food\Models\Recipe',
+        'cuisine' 			=> 		'Modules\Food\Models\Cuisine',
+        'cuisine_cat' 		=> 		'Modules\Food\Models\CuisineCat',
         'ingredient' 		=> 		'Modules\Food\Models\Ingredient',
         'ingredient_cat' 	=> 		'Modules\Food\Models\IngredientCat',
         'location' 			=> 		'Modules\Food\Models\Location',
+        'profile' 			=> 		'Modules\Food\Models\Profile',
 
         'cart_item'			=> 		\Modules\Food\Models\CartItem::class, //wip
         'cart'				=> 		\Modules\Food\Models\Cart::class, //wip
