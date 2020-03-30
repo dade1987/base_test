@@ -1,7 +1,7 @@
 <?php
 
 $def = [
-    'pub_theme' => 'talenteco_events',
+    'pub_theme' => 'coderdocs',
     //'pub_theme' => 'test',
     //'adm_theme' => 'adminlte',
     'adm_theme' => 'sb-admin-2-bs4',
