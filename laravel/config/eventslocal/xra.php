@@ -7,6 +7,9 @@ $def = [
     'adm_theme' => 'sb-admin-2-bs4',
     'enable_ads' => '1',
     'model' => [
+        //--------------------------------------------------------
+        'home'  => 'Modules\RevSlider\Models\Home',
+        'layer' =>  'Modules\RevSlider\Models\Layer',
         //'blog' 				=>		'Modules\Blog\Models\Blog',
         'article' => 'Modules\Blog\Models\Article',
         'article_cat' => 'Modules\Blog\Models\ArticleCat',
