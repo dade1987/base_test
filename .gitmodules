@@ -43,3 +43,9 @@
 [submodule "laravel/resources/views/themes/talenteco_events"]
 	path = laravel/resources/views/themes/talenteco_events
 	url = https://Malebestia@bitbucket.org/team_xot/theme_talenteco_events.git
+[submodule "laravel/Modules/Food"]
+	path = laravel/Modules/Food
+	url = https://github.com/laraxot/module_food.git
+[submodule "laravel/resources/views/themes/food"]
+	path = laravel/resources/views/themes/food
+	url = https://Malebestia@bitbucket.org/team_xot/theme_directorybs4.git
