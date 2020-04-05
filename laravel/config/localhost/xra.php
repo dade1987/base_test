@@ -83,6 +83,7 @@ $def = [
         'home' => [
         ],
     ],
+    'show_trans_key' => false,
 ];
 
 return $def;
