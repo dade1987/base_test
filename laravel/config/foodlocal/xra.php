@@ -37,6 +37,7 @@ $def = [
         //'contact'			=>     	\Modules\Food\Models\Contact::class,
         'bell_boy'			=> 		\Modules\Food\Models\BellBoy::class,
 
+        'amenity'           => \Modules\Food\Models\Amenity::class,
     ],
     'roots' => [
         'restaurant',
