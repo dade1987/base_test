@@ -48,4 +48,4 @@
 	url = https://github.com/laraxot/module_food.git
 [submodule "laravel/resources/views/themes/directorybs4"]
 	path = laravel/resources/views/themes/directorybs4
-	url = https://Malebestia@bitbucket.org/team_xot/theme_directorybs4.git
+	url = https://bitbucket.org/team_xot/theme_directorybs4.git
