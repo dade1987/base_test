@@ -1,7 +1,7 @@
 <?php
 
 $def = [
-    'pub_theme' => 'food',
+    'pub_theme' => 'directorybs4',
     //'adm_theme' => 'adminlte',
     'adm_theme' => 'sb-admin-2-bs4',
     'enable_ads' => '1',
