@@ -46,6 +46,6 @@
 [submodule "laravel/Modules/Food"]
 	path = laravel/Modules/Food
 	url = https://github.com/laraxot/module_food.git
-[submodule "laravel/resources/views/themes/food"]
-	path = laravel/resources/views/themes/food
+[submodule "laravel/resources/views/themes/directorybs4"]
+	path = laravel/resources/views/themes/directorybs4
 	url = https://Malebestia@bitbucket.org/team_xot/theme_directorybs4.git
