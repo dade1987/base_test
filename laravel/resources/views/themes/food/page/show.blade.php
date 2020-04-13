@@ -1,0 +1,1 @@
+@include('pub_theme::page.'.$row->blade)
