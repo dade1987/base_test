@@ -17,6 +17,7 @@ $def = [
         'place' => 'Modules\Blog\Models\Place',
         'event' => 'Modules\Blog\Models\Event',
         'rating' => 'Modules\Blog\Models\Rating',
+        'comment' => 'Modules\Blog\Models\Comment',
         //------------- FOOD ----------------------------------------
 
         'restaurant' 		=> 		'Modules\Food\Models\Restaurant',
