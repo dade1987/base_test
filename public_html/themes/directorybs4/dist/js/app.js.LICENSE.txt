@@ -15,6 +15,12 @@
  * Released under the MIT license
  */
 
+/*!
+ * vue-cookie-law v1.13.3
+ * (c) 2020 Jakub Juszczak <jakub@posteo.de>
+ * 
+ */
+
 /*! *****************************************************************************
     Copyright (c) Microsoft Corporation. All rights reserved.
     Licensed under the Apache License, Version 2.0 (the "License"); you may not use
