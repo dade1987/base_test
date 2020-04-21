@@ -19,6 +19,9 @@
 [submodule "laravel/Modules/FormX"]
 	path = laravel/Modules/FormX
 	url = https://github.com/laraxot/module_formx.git
+[submodule "laravel/Modules/Cart"]
+	path = laravel/Modules/Cart
+	url = https://github.com/laraxot/module_cart.git
 [submodule "laravel/resources/views/themes/sb-admin-2-bs4"]
 	path = laravel/resources/views/themes/sb-admin-2-bs4
 	url = https://github.com/laraxot/theme_sb-admin-2-bs4.git
