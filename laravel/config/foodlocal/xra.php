@@ -37,7 +37,7 @@ $def = [
         'restaurant_map'	=>      \Modules\Food\Models\RestaurantMap::class,
         //'contact'			=>     	\Modules\Food\Models\Contact::class,
         'bell_boy'			=> 		\Modules\Food\Models\BellBoy::class,
-
+        'cart'           => \Modules\Cart\Models\Cart::class,
         'amenity'           => \Modules\Food\Models\Amenity::class,
     ],
     'roots' => [
