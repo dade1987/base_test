@@ -1,8 +1,24 @@
 {
-    "php-cs-fixer.configFile": "C:/var/public_html/multi/laravel/.php_cs",
-    "php-cs-fixer.config": "~/.vscode/.php_cs;",
-    "editor.defaultFormatter": "junstyle.php-cs-fixer",
-		"[php]": {
-			"editor.defaultFormatter": "junstyle.php-cs-fixer"
-		}
+	"editor.formatOnSave": true,
+    "php-cs-fixer.onsave": true,
+	"php-cs-fixer.formatHtml": true,
+    "php-cs-fixer.configFile": "c:/var/.php_cs",
+	"php-cs-fixer.config": "c:/var/.php_cs",
+			"php-cs-fixer.executablePath": "c:/var/php-cs-fixer.phar",
+		"php-cs-fixer.executablePathWindows": "c:/var/php-cs-fixer.phar",
+
+	"vscode-php-cs-fixer.config": "c:/var/.php_cs",
+	"vscode-php-cs-fixer.allowRisky": true,
+	"phpmd.enabled": false,
+	"phpmd.validate.rulesets": "cleancode,codesize,controversial,design,naming,unusedcode",
+	"phpmd.SuppressWarnings":true,
+	"phpmd.verbose": false,
+	"php-cs-fixer.allowRisky": true,
+	"editor.defaultFormatter": "junstyle.php-cs-fixer",
+	"[php]": {
+		"editor.defaultFormatter": "junstyle.php-cs-fixer"
+	},
+	"editor.tokenColorCustomizations": {
+		"semanticHighlighting": true
+	}
 }
