@@ -20,26 +20,25 @@ $def = [
         'comment' => 'Modules\Blog\Models\Comment',
         //------------- FOOD ----------------------------------------
 
-        'restaurant' 		=> 		'Modules\Food\Models\Restaurant',
-        'restaurant_owner' 	=> 		'Modules\Food\Models\RestaurantOwner',
-        'recipe' 			=> 		'Modules\Food\Models\Recipe',
-        'cuisine' 			=> 		'Modules\Food\Models\Cuisine',
-        'cuisine_cat' 		=> 		'Modules\Food\Models\CuisineCat',
-        'ingredient' 		=> 		'Modules\Food\Models\Ingredient',
-        'ingredient_cat' 	=> 		'Modules\Food\Models\IngredientCat',
-        'location' 			=> 		'Modules\Food\Models\Location',
-        'profile' 			=> 		'Modules\Food\Models\Profile',
+        'restaurant' => 'Modules\Food\Models\Restaurant',
+        'restaurant_owner' => 'Modules\Food\Models\RestaurantOwner',
+        'recipe' => 'Modules\Food\Models\Recipe',
+        'cuisine' => 'Modules\Food\Models\Cuisine',
+        'cuisine_cat' => 'Modules\Food\Models\CuisineCat',
+        'ingredient' => 'Modules\Food\Models\Ingredient',
+        'ingredient_cat' => 'Modules\Food\Models\IngredientCat',
+        'location' => 'Modules\Food\Models\Location',
+        'profile' => 'Modules\Food\Models\Profile',
 
-        'cart_item'			=> 		\Modules\Food\Models\CartItem::class, //wip
-        'cart'				=> 		\Modules\Food\Models\Cart::class, //wip
-        'opening_hour' 		=> 		\Modules\Food\Models\OpeningHour::class,
+        'cart_item' => \Modules\Cart\Models\CartItem::class, //wip
+        'cart' => \Modules\Cart\Models\Cart::class, //wip
+        'opening_hour' => \Modules\Food\Models\OpeningHour::class,
         //'map' =>          		\Modules\Food\Models\Map::class,
-        'restaurant_map'	=>      \Modules\Food\Models\RestaurantMap::class,
+        'restaurant_map' => \Modules\Food\Models\RestaurantMap::class,
         //'contact'			=>     	\Modules\Food\Models\Contact::class,
-        'bell_boy'			=> 		\Modules\Food\Models\BellBoy::class,
-        'cart'           => \Modules\Cart\Models\Cart::class,
-        'amenity'           => \Modules\Food\Models\Amenity::class,
-        'label'             => \Modules\Blog\Models\Label::class,
+        'bell_boy' => \Modules\Food\Models\BellBoy::class,
+        'amenity' => \Modules\Food\Models\Amenity::class,
+        'label' => \Modules\Blog\Models\Label::class,
     ],
     'roots' => [
         'restaurant',
