@@ -39,6 +39,7 @@ $def = [
         'bell_boy' => \Modules\Food\Models\BellBoy::class,
         'amenity' => \Modules\Food\Models\Amenity::class,
         'label' => \Modules\Blog\Models\Label::class,
+        'tip' => \Modules\Food\Models\Tip::class,
     ],
     'roots' => [
         'restaurant',
