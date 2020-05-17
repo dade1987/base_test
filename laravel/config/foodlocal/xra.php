@@ -40,6 +40,7 @@ $def = [
         'amenity' => \Modules\Food\Models\Amenity::class,
         'label' => \Modules\Blog\Models\Label::class,
         'tip' => \Modules\Food\Models\Tip::class,
+        'waiter' => \Modules\Food\Models\Waiter::class,
     ],
     'roots' => [
         'restaurant',
