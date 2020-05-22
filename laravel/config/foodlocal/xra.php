@@ -1,93 +1,65 @@
-<?php
-
-$def = [
-    'pub_theme' => 'directorybs4',
-    //'adm_theme' => 'adminlte',
-    'adm_theme' => 'sb-admin-2-bs4',
-    'enable_ads' => '1',
-    'model' => [
-        //'blog' 				=>		'Modules\Blog\Models\Blog',
-        'article' => 'Modules\Blog\Models\Article',
-        'article_cat' => 'Modules\Blog\Models\ArticleCat',
-        'photo' => 'Modules\Blog\Models\Photo',
-        'home' => 'Modules\Blog\Models\Home',
-        'page' => 'Modules\Blog\Models\Page',
-        'feed' => 'Modules\Blog\Models\Feed',
-        'sitemap' => 'Modules\Blog\Models\Sitemap',
-        'place' => 'Modules\Blog\Models\Place',
-        'event' => 'Modules\Blog\Models\Event',
-        'rating' => 'Modules\Blog\Models\Rating',
-        'comment' => 'Modules\Blog\Models\Comment',
-        //------------- FOOD ----------------------------------------
-
-        'restaurant' => 'Modules\Food\Models\Restaurant',
-        'restaurant_owner' => 'Modules\Food\Models\RestaurantOwner',
-        'recipe' => 'Modules\Food\Models\Recipe',
-        'cuisine' => 'Modules\Food\Models\Cuisine',
-        'cuisine_cat' => 'Modules\Food\Models\CuisineCat',
-        'ingredient' => 'Modules\Food\Models\Ingredient',
-        'ingredient_cat' => 'Modules\Food\Models\IngredientCat',
-        'location' => 'Modules\Food\Models\Location',
-        'profile' => 'Modules\Food\Models\Profile',
-
-        'cart_item' => \Modules\Cart\Models\CartItem::class, //wip
-        'cart' => \Modules\Cart\Models\Cart::class, //wip
-        'opening_hour' => \Modules\Food\Models\OpeningHour::class,
-        //'map' =>          		\Modules\Food\Models\Map::class,
-        'restaurant_map' => \Modules\Food\Models\RestaurantMap::class,
-        //'contact'			=>     	\Modules\Food\Models\Contact::class,
-        'bell_boy' => \Modules\Food\Models\BellBoy::class,
-        'amenity' => \Modules\Food\Models\Amenity::class,
-        'label' => \Modules\Blog\Models\Label::class,
-        'tip' => \Modules\Food\Models\Tip::class,
-        'waiter' => \Modules\Food\Models\Waiter::class,
-    ],
-    'roots' => [
-        'restaurant',
-        'profile',
-        //'cuisineCat',
-    ],
-    'migrate_packs' => [
-        'xra',
-        'blog',
-        'lu',
-        'import',
-        'food',
-        'seo',
-        'backend',
-    ],
-    'enable_packs' => [
-        'frontend',
-        'backend',
-        'lu',
-        'blog',
-        'extend',
-        'import',
-        'food',
-        //  'seo',
-        'xra',
-        'settings',
-    ],
-    'primary_lang' => 'it',
-    'related' => [
-        'postCat' => [
-            0 => 'post',
-        ],
-        'cuisine' => [
-            0 => 'ingredientCat',
-            1 => 'recipe',
-        ],
-        'ingredientCat' => [
-            0 => 'ingredient',
-        ],
-        'restaurant' => [
-            0 => 'cuisine',
-            1 => 'cuisineCat',
-        ],
-        'home' => [
-        ],
-    ],
-    'show_trans_key' => true,
-];
-
-return $def;
+<?php return array (
+  'adm_theme' => 'sb-admin-2-bs4',
+  'enable_ads' => '1',
+  'enable_packs' => 
+  array (
+    0 => 'backend',
+    1 => 'blog',
+    2 => 'extend',
+    3 => 'food',
+    4 => 'frontend',
+    5 => 'import',
+    6 => 'lu',
+    7 => 'settings',
+    8 => 'xra',
+  ),
+  'migrate_packs' => 
+  array (
+    0 => 'backend',
+    1 => 'blog',
+    2 => 'food',
+    3 => 'import',
+    4 => 'lu',
+    5 => 'seo',
+    6 => 'xra',
+  ),
+  'model' => 
+  array (
+    'bell_boy' => 'Modules\Food\Models\BellBoy',
+    'location' => 'Modules\Food\Models\Location',
+    'profile' => 'Modules\Food\Models\Profile',
+    'restaurant' => 'Modules\Food\Models\Restaurant',
+  ),
+  'primary_lang' => 'it',
+  'pub_theme' => 'directorybs4',
+  'related' => 
+  array (
+    'cuisine' => 
+    array (
+      0 => 'ingredientCat',
+      1 => 'recipe',
+    ),
+    'home' => 
+    array (
+    ),
+    'ingredientCat' => 
+    array (
+      0 => 'ingredient',
+    ),
+    'postCat' => 
+    array (
+      0 => 'post',
+    ),
+    'restaurant' => 
+    array (
+      0 => 'cuisine',
+      1 => 'cuisineCat',
+    ),
+  ),
+  'roots' => 
+  array (
+    0 => 'profile',
+    1 => 'restaurant',
+  ),
+  'show_trans_key' => true,
+);
