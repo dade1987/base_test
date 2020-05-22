@@ -26,8 +26,13 @@
   'model' => 
   array (
     'bell_boy' => 'Modules\Food\Models\BellBoy',
+    'cart' => 'Modules\Cart\Models\Cart',
+    'cuisine_cat' => 'Modules\Food\Models\CuisineCat',
+    'home' => 'Modules\Blog\Models\Home',
     'location' => 'Modules\Food\Models\Location',
+    'page' => 'Modules\Blog\Models\Page',
     'profile' => 'Modules\Food\Models\Profile',
+    'rating' => 'Modules\Blog\Models\Rating',
     'restaurant' => 'Modules\Food\Models\Restaurant',
   ),
   'primary_lang' => 'it',
