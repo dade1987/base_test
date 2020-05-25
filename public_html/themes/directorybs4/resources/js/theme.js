@@ -168,7 +168,7 @@ $(function () {
 
 
     var itemsSliderFull = new Swiper('.items-slider-full', {
-        slidesPerView: 6,
+        slidesPerView: 1,
         spaceBetween: 20,
         loop: true,
         roundLengths: true,
