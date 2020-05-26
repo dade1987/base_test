@@ -52,3 +52,6 @@
 [submodule "laravel/resources/views/themes/directorybs4"]
 	path = laravel/resources/views/themes/directorybs4
 	url = https://bitbucket.org/team_xot/theme_directorybs4.git
+[submodule "laravel/resources/views/themes/jigsawdocs"]
+	path = laravel/resources/views/themes/jigsawdocs
+	url = https://github.com/laraxot/theme_jigsawdocs.git
