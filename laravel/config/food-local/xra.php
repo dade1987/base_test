@@ -26,6 +26,7 @@
   'model' => 
   array (
     'amenity' => 'Modules\Blog\Models\Amenity',
+    'article' => 'Modules\Blog\Models\Article',
     'bell_boy' => 'Modules\Food\Models\BellBoy',
     'cart' => 'Modules\Cart\Models\Cart',
     'cuisine' => 'Modules\Food\Models\Cuisine',
