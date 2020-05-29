@@ -1,3 +1,4 @@
+(function( $ ){
 
   $.fn.filemanager = function(type, options) {
     type = type || 'file';
@@ -20,3 +21,4 @@
     });
   }
 
+})(jQuery);

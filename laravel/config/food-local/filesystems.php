@@ -56,6 +56,7 @@ return [
             'driver' => 'local',
             'root' => public_path('/'),
             //'url' => url('/'),
+            'url' => '/',
             'visibility' => 'public',
         ],
 
