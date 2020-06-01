@@ -55,3 +55,6 @@
 [submodule "laravel/resources/views/themes/jigsawdocs"]
 	path = laravel/resources/views/themes/jigsawdocs
 	url = https://github.com/laraxot/theme_jigsawdocs.git
+[submodule "laravel/resources/views/themes/jigsawcasper"]
+	path = laravel/resources/views/themes/jigsawcasper
+	url = https://github.com/laraxot/theme_jigsawcasper
