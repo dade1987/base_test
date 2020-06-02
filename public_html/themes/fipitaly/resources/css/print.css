@@ -1,0 +1,75 @@
+#print-addr, #print-addr b {
+	text-align: center !important;
+	font-size: 7pt !important;
+}
+
+* {
+	font-size:12pt;
+	position: static;
+	float: none;
+	/*background: transparent !important;*/
+	color: black !important;
+}
+
+.container {
+	width: auto !important;
+}
+
+#menu {
+	display: none;
+}
+
+table {
+	page-break-inside: avoid;
+	border: 1px solid #ddd;
+}
+
+table tr {
+	border-top: 1px solid #ddd;
+}
+
+table tr:nth-of-type(odd) {
+	background-color: #ddd;
+}
+
+.print-off,
+.final-row,
+a[href]:after,
+.after-header,
+.same-category-section,
+.catalogo.top-page,
+.tabcategories-wrapper,
+#richiedi-preventivo,
+#cookie-bar,
+.tabcategories-mobile,
+.breadcrumbs_section,
+.download-attach,
+#product-gallery-horizontaly-thumb-x,
+.image-box {
+	display: none !important;
+}
+
+
+.print-on {
+	display: block !important;
+}
+
+.logo-print {
+	margin: 0 auto;
+}
+
+.zvui-gallery-swiper-slide img.loaded {
+	border: none !important;
+	width: 460px;
+	display: block !important;
+	margin: 0 auto;
+
+}
+
+.description-print {
+	margin-top: 10px;
+}
+
+.blocks-pages .odd-row {
+	margin-bottom: 0;
+}
