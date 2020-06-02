@@ -58,3 +58,9 @@
 [submodule "laravel/resources/views/themes/jigsawcasper"]
 	path = laravel/resources/views/themes/jigsawcasper
 	url = https://github.com/laraxot/theme_jigsawcasper
+[submodule "laravel/resources/views/themes/fipitaly"]
+	path = laravel/resources/views/themes/fipitaly
+	url = https://Malebestia@bitbucket.org/qweb_xot/theme_fipitaly.git
+[submodule "laravel/Modules/Ew"]
+	path = laravel/Modules/Ew
+	url = https://Malebestia@bitbucket.org/qweb_xot/module_ew.git

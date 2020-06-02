@@ -26,7 +26,8 @@
         "moneyphp/money": "^3.3",
         "nwidart/laravel-modules": "^7.1",
         "staudenmeir/eloquent-has-many-deep": "^1.12",
-        "unisharp/laravel-filemanager": "^2.1"
+        "unisharp/laravel-filemanager": "^2.1",
+        "ytake/laravel-smarty": "^4.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.3",
