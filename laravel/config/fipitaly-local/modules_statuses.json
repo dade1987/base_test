@@ -1,14 +1,9 @@
 {
     "Xot": true,
     "Theme": true,
-    "Settings": true,
     "LU": true,
     "Geo": true,
-    "Forum": true,
     "FormX": true,
-    "Food": true,
-    "ChatBot": true,
     "Blog": true,
-    "Cart": true,
     "Ew": true
 }
