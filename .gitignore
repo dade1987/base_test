@@ -32,3 +32,4 @@ Homestead.json
 /laravel/reports
 .tmp
 error_log
+/laravel/storage
