@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.36, created on 2020-06-02 13:25:27
+/* Smarty version 3.1.36, created on 2020-06-02 16:26:08
   from 'E:\phpWorkspace\food_tribu_project\base_test\laravel\resources\views\themes\fipitaly\home\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.36',
-  'unifunc' => 'content_5ed63727d9bb34_96408507',
+  'unifunc' => 'content_5ed66180568415_14576483',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:../slot/_header.tpl' => 1,
   ),
 ),false)) {
-function content_5ed63727d9bb34_96408507 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ed66180568415_14576483 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender('file:../slot/_header.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 }
 }
