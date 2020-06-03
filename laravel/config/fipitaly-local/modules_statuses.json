@@ -2,8 +2,8 @@
     "Xot": true,
     "Theme": true,
     "LU": true,
-    "Geo": true,
+    "Geo": false,
     "FormX": true,
-    "Blog": true,
+    "Blog": false,
     "Ew": true
 }
