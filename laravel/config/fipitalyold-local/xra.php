@@ -5,7 +5,7 @@ $def = [
     'adm_theme' => 'sb-admin-2-bs4',
     'enable_ads' => '1',
     'model' => [
-        'home' => 'Modules\Blog\Models\Home',
+        'home' => 'Modules\Ew\Models\Home',
     ],
     'primary_lang' => 'it',
     'show_trans_key' => false,
