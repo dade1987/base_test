@@ -64,3 +64,6 @@
 [submodule "laravel/Modules/Ew"]
 	path = laravel/Modules/Ew
 	url = https://Malebestia@bitbucket.org/qweb_xot/module_ew.git
+[submodule "laravel/resources/views/themes/miniblog"]
+	path = laravel/resources/views/themes/miniblog
+	url = https://github.com/laraxot/theme_miniblog.git
