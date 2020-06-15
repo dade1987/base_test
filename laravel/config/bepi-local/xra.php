@@ -8,6 +8,6 @@
          'home' => 'Modules\Xot\Models\Home',
      ],
      'primary_lang' => 'it',
-     'pub_theme' => 'miniblog',
+     'pub_theme' => 'bsitalia',
      'show_trans_key' => false,
  ];

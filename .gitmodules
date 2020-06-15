@@ -67,3 +67,6 @@
 [submodule "laravel/resources/views/themes/miniblog"]
 	path = laravel/resources/views/themes/miniblog
 	url = https://github.com/laraxot/theme_miniblog.git
+[submodule "laravel/resources/views/themes/bsitalia"]
+	path = laravel/resources/views/themes/bsitalia
+	url = https://github.com/laraxot/theme_bsitalia.git
