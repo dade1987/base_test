@@ -4,6 +4,7 @@
   'model' => 
   array (
     'article' => 'Modules\Blog\Models\Article',
+    'category' => 'Modules\Blog\Models\Category',
     'home' => 'Modules\Xot\Models\Home',
     'profile' => 'Modules\Food\Models\Profile',
   ),
