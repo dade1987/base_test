@@ -43,9 +43,6 @@
 [submodule "laravel/Modules/RevSlider"]
 	path = laravel/Modules/RevSlider
 	url = https://bitbucket.org/team_xot/module_revslider.git
-[submodule "laravel/resources/views/themes/talenteco_events"]
-	path = laravel/resources/views/themes/talenteco_events
-	url = https://bitbucket.org/team_xot/theme_talenteco_events.git
 [submodule "laravel/Modules/Food"]
 	path = laravel/Modules/Food
 	url = https://github.com/laraxot/module_food.git
@@ -58,12 +55,6 @@
 [submodule "laravel/resources/views/themes/jigsawcasper"]
 	path = laravel/resources/views/themes/jigsawcasper
 	url = https://github.com/laraxot/theme_jigsawcasper
-[submodule "laravel/resources/views/themes/fipitaly"]
-	path = laravel/resources/views/themes/fipitaly
-	url = https://Malebestia@bitbucket.org/qweb_xot/theme_fipitaly.git
-[submodule "laravel/Modules/Ew"]
-	path = laravel/Modules/Ew
-	url = https://Malebestia@bitbucket.org/qweb_xot/module_ew.git
 [submodule "laravel/resources/views/themes/miniblog"]
 	path = laravel/resources/views/themes/miniblog
 	url = https://github.com/laraxot/theme_miniblog.git
