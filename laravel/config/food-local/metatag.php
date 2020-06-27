@@ -1,7 +1,9 @@
-<?phpreturn array (
+<?php
+return array (
   'id' => 1,
   'title' => '32312312',
   'subtitle' => 'uuuu',
+  'sitename' => 'foodfriendfinder',
   'charset' => '',
   'author' => '',
   'meta_description' => '',
