@@ -33,3 +33,4 @@ Homestead.json
 .tmp
 error_log
 /laravel/storage
+/virgin.code-workspace

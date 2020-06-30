@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\food_flutter_laravel"
 		}
 	],
 	"settings": {
