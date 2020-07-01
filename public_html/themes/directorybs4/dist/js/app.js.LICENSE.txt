@@ -1,14 +1,14 @@
 /* flatpickr v4.6.3, @license MIT */
 
 /*!
- * Bootstrap-select v1.13.12 (https://developer.snapappointments.com/bootstrap-select)
+ * Bootstrap-select v1.13.18 (https://developer.snapappointments.com/bootstrap-select)
  *
- * Copyright 2012-2019 SnapAppointments, LLC
+ * Copyright 2012-2020 SnapAppointments, LLC
  * Licensed under MIT (https://github.com/snapappointments/bootstrap-select/blob/master/LICENSE)
  */
 
 /*!
- * CSSPlugin 3.2.6
+ * CSSPlugin 3.3.4
  * https://greensock.com
  *
  * Copyright 2008-2020, GreenSock. All rights reserved.
@@ -18,7 +18,7 @@
 */
 
 /*!
- * GSAP 3.2.6
+ * GSAP 3.3.4
  * https://greensock.com
  *
  * @license Copyright 2008-2020, GreenSock. All rights reserved.
@@ -1248,7 +1248,7 @@
 
 /*! no static exports found */
 
-/*! nouislider - 14.2.0 - 3/27/2020 */
+/*! nouislider - 14.6.0 - 6/27/2020 */
 
 /*! npm.im/object-fit-images 3.2.4 */
 
@@ -3047,3 +3047,8 @@
 /*!******************************************************************************!*\
   !*** external {"commonjs":"vue","commonjs2":"vue","amd":"vue","root":"Vue"} ***!
   \******************************************************************************/
+
+/**
+ * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
+ * Released under MIT license, http://github.com/requirejs/almond/LICENSE
+ */
