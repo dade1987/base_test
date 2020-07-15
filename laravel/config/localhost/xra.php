@@ -8,6 +8,7 @@
     'cuisine' => 'Modules\Food\Models\Cuisine',
     'cuisine_cat' => 'Modules\Food\Models\CuisineCat',
     'home' => 'Modules\Xot\Models\Home',
+    'ingredient' => 'Modules\Food\Models\Ingredient',
     'ingredient_cat' => 'Modules\Food\Models\IngredientCat',
     'location' => 'Modules\Food\Models\Location',
     'page' => 'Modules\Blog\Models\Page',
