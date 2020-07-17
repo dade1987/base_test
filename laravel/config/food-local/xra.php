@@ -1,5 +1,5 @@
 <?php return array (
-  'adm_theme' => 'sb-admin-2-bs4',
+  'adm_theme' => 'adminflu',
   'enable_ads' => '1',
   'enable_packs' => 
   array (
@@ -30,6 +30,7 @@
     'article' => 'Modules\Blog\Models\Article',
     'bell_boy' => 'Modules\Food\Models\BellBoy',
     'cart' => 'Modules\Cart\Models\Cart',
+    'category' => 'Modules\Blog\Models\Category',
     'cuisine' => 'Modules\Food\Models\Cuisine',
     'cuisine_cat' => 'Modules\Food\Models\CuisineCat',
     'home' => 'Modules\Blog\Models\Home',
