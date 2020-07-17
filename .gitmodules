@@ -61,3 +61,6 @@
 [submodule "laravel/resources/views/themes/bsitalia"]
 	path = laravel/resources/views/themes/bsitalia
 	url = https://github.com/laraxot/theme_bsitalia.git
+[submodule "laravel/resources/views/themes/adminflu"]
+	path = laravel/resources/views/themes/adminflu
+	url = https://github.com/laraxot/theme_adminflu.git
