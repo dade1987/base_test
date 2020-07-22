@@ -64,3 +64,6 @@
 [submodule "laravel/resources/views/themes/adminflu"]
 	path = laravel/resources/views/themes/adminflu
 	url = https://github.com/laraxot/theme_adminflu.git
+[submodule "laravel/resources/views/themes/metronic_one"]
+	path = laravel/resources/views/themes/metronic_one
+	url = https://Malebestia@bitbucket.org/qweb_xot/theme_metronic_one.git

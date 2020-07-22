@@ -28,7 +28,7 @@
         "nwidart/laravel-modules": "^7.1",
         "staudenmeir/eloquent-has-many-deep": "^1.12",
         "unisharp/laravel-filemanager": "^2.1",
-        "yajra/laravel-datatables-oracle": "~9.0",
+        "yajra/laravel-datatables-oracle": "^9.10",
         "ytake/laravel-smarty": "^4.0"
     },
     "require-dev": {
