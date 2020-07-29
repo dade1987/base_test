@@ -1,8 +1,8 @@
 <?php
 
  return [
-     //'adm_theme' => 'adminflu',
-     'adm_theme' => 'sb-admin-2-bs4',
+     'adm_theme' => 'adminflu',
+     //'adm_theme' => 'sb-admin-2-bs4',
      'enable_ads' => '1',
      'enable_packs' => [
          0 => 'backend',

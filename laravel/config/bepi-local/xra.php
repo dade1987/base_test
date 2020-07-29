@@ -1,4 +1,6 @@
-<?php return array (
+<?php
+
+ return array (
   'adm_theme' => 'sb-admin-2-bs4',
   'enable_ads' => '1',
   'forcessl' => false,
@@ -15,6 +17,7 @@
     'widget' => 'Modules\Xot\Models\Widget',
   ),
   'primary_lang' => 'it',
-  'pub_theme' => 'directorybs4',
+  //'pub_theme' => 'directorybs4',
+  'pub_theme' => 'coderdocs',
   'show_trans_key' => true,
 );
