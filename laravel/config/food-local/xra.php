@@ -1,8 +1,7 @@
 <?php
 
  return [
-     'adm_theme' => 'adminflu',
-     //'adm_theme' => 'sb-admin-2-bs4',
+     'adm_theme' => 'sb-admin-2-bs4',
      'enable_ads' => '1',
      'enable_packs' => [
          0 => 'backend',
@@ -46,6 +45,7 @@
          'recipe' => 'Modules\Food\Models\Recipe',
          'restaurant' => 'Modules\Food\Models\Restaurant',
          'restaurant_owner' => 'Modules\Food\Models\RestaurantOwner',
+         'tag' => 'Modules\Blog\Models\Tag',
          'tip' => 'Modules\Food\Models\Tip',
          'waiter' => 'Modules\Food\Models\Waiter',
          'widget' => 'Modules\Xot\Models\Widget',
