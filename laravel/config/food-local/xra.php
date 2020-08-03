@@ -51,7 +51,7 @@
          'widget' => 'Modules\Xot\Models\Widget',
      ],
      'primary_lang' => 'it',
-     'pub_theme' => 'directorybs4',
+     'pub_theme' => '',
      'related' => [
          'cuisine' => [
              0 => 'ingredientCat',
