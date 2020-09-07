@@ -24,6 +24,7 @@
         "laravel/tinker": "^2.0",
         "laravel/ui": "^2.0",
         "laravelcollective/html": "^6.1",
+        "livewire/livewire": "^2.0",
         "mcamara/laravel-localization": "^1.5",
         "moneyphp/money": "^3.3",
         "nwidart/laravel-modules": "^7.1",
